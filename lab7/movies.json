@@ -1,0 +1,79 @@
+[
+  {
+    "movie_id": 1,
+    "title": "Lost Shadow IV",
+    "genre": "Musical",
+    "release_year": 1970,
+    "duration": 4
+  },
+  {
+    "movie_id": 2,
+    "title": "Dreamy Legend I",
+    "genre": "Sport",
+    "release_year": 2009,
+    "duration": 421
+  },
+  {
+    "movie_id": 3,
+    "title": "Epic Dream II",
+    "genre": "Educational",
+    "release_year": 2011,
+    "duration": 245
+  },
+  {
+    "movie_id": 4,
+    "title": "Forgotten Vengeance I",
+    "genre": "Adventure",
+    "release_year": 2023,
+    "duration": 54
+  },
+  {
+    "movie_id": 5,
+    "title": "Ancient World II",
+    "genre": "Science Fiction",
+    "release_year": 2007,
+    "duration": 2
+  },
+  {
+    "movie_id": 6,
+    "title": "Silent Saga I",
+    "genre": "Horror",
+    "release_year": 1984,
+    "duration": 266
+  },
+  {
+    "movie_id": 7,
+    "title": "Ancient Tale V",
+    "genre": "Game Show",
+    "release_year": 1991,
+    "duration": 194
+  },
+  {
+    "movie_id": 8,
+    "title": "Cursed World III",
+    "genre": "Horror",
+    "release_year": 2001,
+    "duration": 417
+  },
+  {
+    "movie_id": 9,
+    "title": "Secret Saga III",
+    "genre": "Horror",
+    "release_year": 1979,
+    "duration": 260
+  },
+  {
+    "movie_id": 10,
+    "title": "Hidden Ghost V",
+    "genre": "Fantasy",
+    "release_year": 1995,
+    "duration": 350
+  },
+  {
+    "movie_id": 11,
+    "title": "ababababba",
+    "genre": "western",
+    "release_year": 1999,
+    "duration": 100
+  }
+]

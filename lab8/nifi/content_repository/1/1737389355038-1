@@ -1,0 +1,301 @@
+[
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "19:09:13.639",
+    "rating": 5
+  },
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "19:09:13.639",
+    "rating": 4
+  },
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "19:09:13.639",
+    "rating": 3
+  }
+][{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"19:09:13.639","rating":5},{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"19:09:13.639","rating":4},{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"19:09:13.639","rating":3}]{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"19:09:13.639","rating":5}{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"19:09:13.639","rating":4}{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"19:09:13.639","rating":3}INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)[
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "19:59:57.615",
+    "rating": 5
+  },
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "19:59:57.615",
+    "rating": 4
+  },
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "19:59:57.615",
+    "rating": 3
+  }
+][{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"19:59:57.615","rating":5},{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"19:59:57.615","rating":4},{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"19:59:57.615","rating":3}]{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"19:59:57.615","rating":5}{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"19:59:57.615","rating":4}{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"19:59:57.615","rating":3}INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)[
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:04:57.716",
+    "rating": 5
+  },
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:04:57.716",
+    "rating": 4
+  },
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:04:57.716",
+    "rating": 3
+  }
+][{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:04:57.716","rating":5},{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:04:57.716","rating":4},{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:04:57.716","rating":3}]{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:04:57.716","rating":5}{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:04:57.716","rating":4}{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:04:57.716","rating":3}INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)[
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:09:57.817",
+    "rating": 5
+  },
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:09:57.817",
+    "rating": 4
+  },
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:09:57.817",
+    "rating": 3
+  }
+][{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:09:57.817","rating":5},{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:09:57.817","rating":4},{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:09:57.817","rating":3}]{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:09:57.817","rating":5}{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:09:57.817","rating":4}{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:09:57.817","rating":3}INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)[
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:14:57.919",
+    "rating": 5
+  },
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:14:57.919",
+    "rating": 4
+  },
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:14:57.919",
+    "rating": 3
+  }
+][{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:14:57.919","rating":5},{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:14:57.919","rating":4},{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:14:57.919","rating":3}]{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:14:57.919","rating":5}{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:14:57.919","rating":4}{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:14:57.919","rating":3}INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)[
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:19:58.020",
+    "rating": 5
+  },
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:19:58.020",
+    "rating": 4
+  },
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:19:58.020",
+    "rating": 3
+  }
+][{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:19:58.020","rating":5},{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:19:58.020","rating":4},{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:19:58.020","rating":3}]{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:19:58.020","rating":5}{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:19:58.020","rating":4}{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:19:58.020","rating":3}INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)[
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:24:58.121",
+    "rating": 5
+  },
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:24:58.121",
+    "rating": 4
+  },
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:24:58.121",
+    "rating": 3
+  }
+][{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:24:58.121","rating":5},{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:24:58.121","rating":4},{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:24:58.121","rating":3}]{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:24:58.121","rating":5}{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:24:58.121","rating":4}{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:24:58.121","rating":3}INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)[
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:29:58.218",
+    "rating": 5
+  },
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:29:58.218",
+    "rating": 4
+  },
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:29:58.218",
+    "rating": 3
+  }
+][{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:29:58.218","rating":5},{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:29:58.218","rating":4},{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:29:58.218","rating":3}]{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:29:58.218","rating":5}{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:29:58.218","rating":4}{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:29:58.218","rating":3}INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)[
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:34:58.319",
+    "rating": 5
+  },
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:34:58.319",
+    "rating": 4
+  },
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:34:58.319",
+    "rating": 3
+  }
+][{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:34:58.319","rating":5},{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:34:58.319","rating":4},{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:34:58.319","rating":3}]{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:34:58.319","rating":5}{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:34:58.319","rating":4}{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:34:58.319","rating":3}INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)[
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:39:58.420",
+    "rating": 5
+  },
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:39:58.420",
+    "rating": 4
+  },
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:39:58.420",
+    "rating": 3
+  }
+][{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:39:58.420","rating":5},{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:39:58.420","rating":4},{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:39:58.420","rating":3}]{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:39:58.420","rating":5}{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:39:58.420","rating":4}{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:39:58.420","rating":3}INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)[
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:44:58.521",
+    "rating": 5
+  },
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:44:58.521",
+    "rating": 4
+  },
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:44:58.521",
+    "rating": 3
+  }
+][{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:44:58.521","rating":5},{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:44:58.521","rating":4},{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:44:58.521","rating":3}]{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:44:58.521","rating":5}{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:44:58.521","rating":4}{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:44:58.521","rating":3}INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)[
+  {
+    "user_id": "xxx",
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:45:19.152",
+    "rating": 5
+  },
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:45:19.152",
+    "rating": 4
+  },
+  {
+    "user_id": 1,
+    "movie_id": 2,
+    "cinema_id": 3,
+    "view_date": "2025-01-20",
+    "view_time": "20:45:19.152",
+    "rating": 3
+  }
+][{"user_id":"xxx","movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:45:19.152","rating":5},{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:45:19.152","rating":4},{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:45:19.152","rating":3}]{"user_id":"xxx","movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:45:19.152","rating":5}{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:45:19.152","rating":4}{"user_id":1,"movie_id":2,"cinema_id":3,"view_date":"2025-01-20","view_time":"20:45:19.152","rating":3}INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)INSERT INTO viewings (user_id, movie_id, cinema_id, view_date, view_time, rating) VALUES (?, ?, ?, ?, ?, ?)
